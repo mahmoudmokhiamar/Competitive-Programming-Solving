@@ -1,0 +1,2 @@
+cout << ans << el;
+    t
