@@ -9,7 +9,7 @@ const int N = 1e5+5;
 void solve()
 {
     string calc; cin >> calc;
-    vector<int> ans;
+    vector<int> ans; 
     for (auto ch : calc)
     {
         if (isdigit(ch))
