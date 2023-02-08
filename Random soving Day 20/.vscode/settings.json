@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ratio": "cpp"
+    }
+=======
+{
+    "files.associations": {
+        "utility": "cpp",
+        "vector": "cpp"
+    }
+>>>>>>> e14ab10335a017eee65c9e8e87fe82290167ad98
+}
